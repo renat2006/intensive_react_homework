@@ -1,0 +1,12 @@
+.container {
+
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+
+    padding: 97px 30px 30px;
+    gap: 30px;
+
+
+}
+

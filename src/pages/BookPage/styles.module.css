@@ -1,0 +1,22 @@
+.container {
+
+
+    display: flex;
+
+    flex-direction: column;
+    padding: 97px 30px 30px;
+    gap: 20px;
+
+
+}
+
+.container__2columns {
+    display: flex;
+
+    flex-direction: row;
+
+    gap: 20px;
+}
+
+
+

@@ -1,0 +1,26 @@
+.review {
+
+    background-color: #fff;
+    padding: 16px 20px 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+
+}
+
+.review i {
+    font-weight: 600;
+    color: black;
+}
+
+.review h4 {
+    margin: 0;
+}
+.review .center__position{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+

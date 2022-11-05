@@ -1,0 +1,84 @@
+.book {
+
+    background-color: #fff;
+    padding: 16px 20px 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: space-between;
+
+
+}
+
+.book h3 {
+    margin-top: 0;
+}
+
+.book > div {
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.book i {
+    font-weight: 600;
+    color: black;
+}
+
+.book h2 {
+    margin-bottom: 0;
+
+}
+
+.center__elements {
+    display: flex;
+
+    justify-self: center;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.book .amount__buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    gap: 24px;
+}
+
+.book .amount__buttons button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 38px;
+    height: 38px;
+    padding: 0;
+    border: none;
+    background: #000000;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 36px;
+    cursor: pointer;
+
+}
+
+.book .amount__buttons span {
+    font-style: normal;
+    font-weight: 700;
+}
+
+.book .amount__buttons button:disabled {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.book .amount__buttons button:hover {
+    background: rgba(0, 0, 0, 0.8);
+}

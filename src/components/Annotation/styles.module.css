@@ -1,0 +1,16 @@
+.annotation {
+    max-height: 216px;
+    background-color: #fff;
+    padding: 16px 20px 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    width: 50%;
+
+}
+
+.annotation h4 {
+    margin-top: 0;
+}

@@ -1,0 +1,24 @@
+.genre__list {
+
+
+    padding: 30px;
+    border-radius: 8px;
+    display: flex;
+
+    flex-direction: column;
+    height: 659px;
+
+
+    justify-content: flex-start;
+    gap: 24px;
+    background-color: #fff;
+}
+
+.tab {
+    font-weight: 400;
+}
+
+.activeTab {
+
+    font-weight: 600;
+}

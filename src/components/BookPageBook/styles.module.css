@@ -1,0 +1,23 @@
+.book {
+
+    width: 50%;
+}
+
+.right__elements {
+    display: flex;
+
+
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+h2 {
+    color: black;
+    margin: 0;
+}
+
+
+
+
